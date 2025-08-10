@@ -1,2 +1,12 @@
 * Alexei Gilchrist
 
+** Main public projects
+
+- [[https://github.com/aalexei/nexus][Nexus]] - a mindmaping app written in ~python~ using ~QT6~. Runs on Macs, Linux, and Windows. I use this for all my lectures, and to organise research topics.
+- [[https://github.com/aalexei/graphydb][graphydb]] - a local graph database on top of ~SQLite~, powers ~Nexus~ and ~Ook~.
+- [[https://github.com/aalexei/poller][Poller]] - a very simple polling app to use in the classroom. Can be used with smartphones/laptops etc to quickly provide a multiple choice poll to a class.
+- [[https://github.com/aalexei/mqthesis][mgthesis]] - MQ thesis LaTeX package, also available on [[https://www.overleaf.com/][Overleaf]] (though, seriously, you should be using revision control).
+  
+** In the pipe line
+
+- ~Ook~ - a reference manager written in ~python~. References and papers organised as a graph with filestore for ~pdf~ and ~djvu~. Using daily, but not quite ready to release.  
